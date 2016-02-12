@@ -15,4 +15,4 @@ Shahdara, Delhi-110093
 
 
 ### Developer
-Website Created By: [Team Cor�dox](http://coredox.github.io)
+Website Created By: [Team Corédox](http://coredox.github.io)
